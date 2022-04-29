@@ -4,9 +4,6 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
 
-## Status
-![My Discord](https://discord-readme-badge.vercel.app/api?id=monger#4813)
-
 <details>
   <summary>Github Stats ⚡</summary>
   
