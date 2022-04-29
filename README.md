@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Chad- I'm a fullstack developer. I have many interest and hobbies but the most important one is learning, I always try to learn something new and keep an open mind! my focus is on React and express but, I'm always exploring whats new!
+##I'm Chad- I'm a fullstack developer. I have many interest and hobbies but the most important one is learning, I always try to learn something new and keep an open mind! my focus is on React and express but, I'm always exploring whats new!
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
