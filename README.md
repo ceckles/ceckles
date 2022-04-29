@@ -4,10 +4,8 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/163061542990905344?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/163061542990905344)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/163061542990905344)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/163061542990905344)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+## Status
+![My Discord](https://discord-readme-badge.vercel.app/api?id=monger#4813)
 
 <details>
   <summary>Github Stats ⚡</summary>
