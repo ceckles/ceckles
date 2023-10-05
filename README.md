@@ -2,7 +2,7 @@
 Hi!! My name is Chad, and I'm a full-stack developer. I have many interests and hobbies, but my main interest is learning. I always try to learn something each day and keep an open mind! My primary technologies include Node.js, React, and Express, but I'm always exploring upcoming ones!
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,gitlab,go,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,rust,supabase,nextjs,swift,ts,vscode,firebase,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,gitlab,go,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,rust,supabase,nextjs,swift,ts,vscode,firebase,vercel,tailwind)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
