@@ -10,3 +10,4 @@ Hi!! My name is Chad, and I'm a full-stack developer. I have many interests and 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ceckles&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceckles&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&theme=radical)
